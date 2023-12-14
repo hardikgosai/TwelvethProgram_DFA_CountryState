@@ -1,0 +1,6 @@
+@Getri_DFA_CountryState_HostAddress = http://localhost:5191
+
+GET {{Getri_DFA_CountryState_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
